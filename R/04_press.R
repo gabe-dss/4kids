@@ -32,7 +32,6 @@ data_press$tipo_processo <- data_press$tipo_processo |>
   stringr::str_to_upper()
 
 ## Exporta em xlsx
-
 xlsx::write.xlsx(
   data_press,
   "DATA/data_press.xlsx",
