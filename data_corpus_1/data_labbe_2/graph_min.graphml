@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">X.rel_CARLOS_EDUARDO_ZIETLOW_DURO</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">X.rel_EDUARDO_AUGUSTO_DIAS_BAINY</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">X.rel_GLAUCIA_DIPP_DREHER</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">X.rel_JANE_MARIA_KÖHLER_VIDAL</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">X.rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">X.rel_JOÃO_RICARDO_DOS_SANTOS_COSTA</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">X.rel_LEANDRO_FIGUEIRA_MARTINS</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">X.rel_LISELENA_SCHIFINO_ROBLES_RIBEIRO</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">X.rel_LUIZ_AUGUSTO_GUIMARAES_DE_SOUZA</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">X.rel_LUIZ_FELIPE_BRASIL_SANTOS</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">X.rel_MANUEL_JOSÉ_MARTINEZ_LUCAS</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">X.rel_MAURO_CAUM_GONÇALVES</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">X.rel_RICARDO_MOREIRA_LINS_PASTL</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">X.rel_ROBERTO_ARRIADA_LOREA</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">X.rel_ROSANA_BROGLIO_GARBIN</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">X.rel_RUI_PORTANOVA</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">X.rel_SANDRA_BRISOLARA_MEDEIROS</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">X.rel_VERA_LUCIA_DEBONI</data>
+    </node>
+    <edge source="n3" target="n4">
+      <data key="e_weight">0.666987282248584</data>
+    </edge>
+    <edge source="n0" target="n5">
+      <data key="e_weight">0.732046651512827</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">0.736070806732443</data>
+    </edge>
+    <edge source="n2" target="n5">
+      <data key="e_weight">0.708390279519967</data>
+    </edge>
+    <edge source="n5" target="n6">
+      <data key="e_weight">0.723997837258776</data>
+    </edge>
+    <edge source="n4" target="n9">
+      <data key="e_weight">0.738924936350209</data>
+    </edge>
+    <edge source="n5" target="n9">
+      <data key="e_weight">0.742339347053153</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_weight">0.637777777777778</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">0.773425146168006</data>
+    </edge>
+    <edge source="n4" target="n12">
+      <data key="e_weight">0.664042622594324</data>
+    </edge>
+    <edge source="n5" target="n13">
+      <data key="e_weight">0.699795395958394</data>
+    </edge>
+    <edge source="n4" target="n14">
+      <data key="e_weight">0.714232369572175</data>
+    </edge>
+    <edge source="n11" target="n15">
+      <data key="e_weight">0.740364580984423</data>
+    </edge>
+    <edge source="n4" target="n16">
+      <data key="e_weight">0.716846567383746</data>
+    </edge>
+    <edge source="n7" target="n16">
+      <data key="e_weight">0.689083557951482</data>
+    </edge>
+    <edge source="n8" target="n17">
+      <data key="e_weight">0.681578947368421</data>
+    </edge>
+    <edge source="n13" target="n17">
+      <data key="e_weight">0.664253568036995</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,24 @@
+[alceste]
+type = alceste
+lem = 1
+mincl = 0
+nbforme_uce = 0
+max_actives = 20000
+tailleuc1 = 12
+nbcl = 4
+tailleuc2 = 14
+classif_mode = 1
+minforme = 2
+expressions = 1
+nbcl_p1 = 10
+svdmethod = irlba
+mode.patate = 0
+corpus = ee50e5b6-4fd8-4af3-8c74-a7b2b3f2d1bd
+pathout = C:\Users\gabri\OneDrive\Área de Trabalho\Acadêmico\R\4kids\data_corpus_1\data_alceste_1
+uuid = 1d479594-4eae-44af-b4ee-ff183f3536ae
+name = data_alceste_1
+eff_min_forme = 3
+nbactives = 592
+clnb = 4
+time = 0h 0m 35s
+ira = C:\Users\gabri\OneDrive\Área de Trabalho\Acadêmico\R\4kids\data_corpus_1\data_alceste_1\Analyse.ira

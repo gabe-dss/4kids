@@ -1,0 +1,1310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="v_x" for="node" attr.name="x" attr.type="double"/>
+  <key id="v_y" for="node" attr.name="y" attr.type="double"/>
+  <key id="v_weight" for="node" attr.name="weight" attr.type="double"/>
+  <key id="v_rcolor" for="node" attr.name="rcolor" attr.type="string"/>
+  <key id="v_frequences" for="node" attr.name="frequences" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">institucional</data>
+      <data key="v_x">0</data>
+      <data key="v_y">1</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">69</data>
+      <data key="v_label">institucional</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">acolhimento</data>
+      <data key="v_x">0</data>
+      <data key="v_y">0</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">73</data>
+      <data key="v_label">acolhimento</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">decisão</data>
+      <data key="v_x">-0.534930629519535</data>
+      <data key="v_y">0.794195066728259</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">41</data>
+      <data key="v_label">decisão</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">medida</data>
+      <data key="v_x">-0.339332348494088</data>
+      <data key="v_y">0.913541990520327</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">44</data>
+      <data key="v_label">medida</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">ação</data>
+      <data key="v_x">-0.693980923777926</data>
+      <data key="v_y">0.634866087277034</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">35</data>
+      <data key="v_label">ação</data>
+    </node>
+    <node id="n5">
+      <data key="v_name">melhor</data>
+      <data key="v_x">-0.853929014506642</data>
+      <data key="v_y">-0.179745492769353</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">melhor</data>
+    </node>
+    <node id="n6">
+      <data key="v_name">interesse</data>
+      <data key="v_x">-0.888270055028962</data>
+      <data key="v_y">0.132603329179588</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">33</data>
+      <data key="v_label">interesse</data>
+    </node>
+    <node id="n7">
+      <data key="v_name">proteção</data>
+      <data key="v_x">-0.757299090065672</data>
+      <data key="v_y">0.543380872985942</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">proteção</data>
+    </node>
+    <node id="n8">
+      <data key="v_name">suspensão</data>
+      <data key="v_x">-0.578268778844753</data>
+      <data key="v_y">-0.595666402074537</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">suspensão</data>
+    </node>
+    <node id="n9">
+      <data key="v_name">manutenção</data>
+      <data key="v_x">-0.808815573971252</data>
+      <data key="v_y">0.445899591012641</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">25</data>
+      <data key="v_label">manutenção</data>
+    </node>
+    <node id="n10">
+      <data key="v_name">reforma</data>
+      <data key="v_x">-0.498606534913203</data>
+      <data key="v_y">-0.653130394783989</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">reforma</data>
+    </node>
+    <node id="n11">
+      <data key="v_name">determinar</data>
+      <data key="v_x">-0.0461629798492527</data>
+      <data key="v_y">-0.777876719280498</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">determinar</data>
+    </node>
+    <node id="n12">
+      <data key="v_name">eca</data>
+      <data key="v_x">-0.848008414347998</data>
+      <data key="v_y">0.343917693066804</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">29</data>
+      <data key="v_label">eca</data>
+    </node>
+    <node id="n13">
+      <data key="v_name">familiar</data>
+      <data key="v_x">-0.441121074614303</data>
+      <data key="v_y">0.859442321866624</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">51</data>
+      <data key="v_label">familiar</data>
+    </node>
+    <node id="n14">
+      <data key="v_name">criança</data>
+      <data key="v_x">-0.619565142358174</data>
+      <data key="v_y">0.718921046806217</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">41</data>
+      <data key="v_label">criança</data>
+    </node>
+    <node id="n15">
+      <data key="v_name">princípio</data>
+      <data key="v_x">-0.366229308382327</data>
+      <data key="v_y">-0.174460412244248</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">princípio</data>
+    </node>
+    <node id="n16">
+      <data key="v_name">descabimento</data>
+      <data key="v_x">0.501385316202893</data>
+      <data key="v_y">-0.516469846344172</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">descabimento</data>
+    </node>
+    <node id="n17">
+      <data key="v_name">destituição</data>
+      <data key="v_x">-0.877651465096804</data>
+      <data key="v_y">-0.0782409115392639</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">29</data>
+      <data key="v_label">destituição</data>
+    </node>
+    <node id="n18">
+      <data key="v_name">estatuto</data>
+      <data key="v_x">0.0456599933860046</data>
+      <data key="v_y">-0.769401064954197</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">estatuto</data>
+    </node>
+    <node id="n19">
+      <data key="v_name">adolescente</data>
+      <data key="v_x">-0.818632962387207</data>
+      <data key="v_y">-0.276761496356941</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">adolescente</data>
+    </node>
+    <node id="n20">
+      <data key="v_name">pedido</data>
+      <data key="v_x">-0.772488331866914</data>
+      <data key="v_y">-0.367989753268681</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">15</data>
+      <data key="v_label">pedido</data>
+    </node>
+    <node id="n21">
+      <data key="v_name">agravar</data>
+      <data key="v_x">-0.413541343656253</data>
+      <data key="v_y">-0.700207163531565</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">agravar</data>
+    </node>
+    <node id="n22">
+      <data key="v_name">instrumento</data>
+      <data key="v_x">-0.230897414814891</data>
+      <data key="v_y">0.955516864596026</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">47</data>
+      <data key="v_label">instrumento</data>
+    </node>
+    <node id="n23">
+      <data key="v_name">pleito</data>
+      <data key="v_x">0.552357540084343</data>
+      <data key="v_y">-0.448194560434535</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">pleito</data>
+    </node>
+    <node id="n24">
+      <data key="v_name">prevalência</data>
+      <data key="v_x">-0.335845205164402</data>
+      <data key="v_y">-0.212018530304882</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">prevalência</data>
+    </node>
+    <node id="n25">
+      <data key="v_name">cabimento</data>
+      <data key="v_x">0.330971857476121</data>
+      <data key="v_y">0.491383745719554</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">6</data>
+      <data key="v_label">cabimento</data>
+    </node>
+    <node id="n26">
+      <data key="v_name">agravo</data>
+      <data key="v_x">-0.117268964753165</data>
+      <data key="v_y">0.984550124443591</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">49</data>
+      <data key="v_label">agravo</data>
+    </node>
+    <node id="n27">
+      <data key="v_name">substituto</data>
+      <data key="v_x">-0.324400269040227</data>
+      <data key="v_y">-0.73643321840405</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">21</data>
+      <data key="v_label">substituto</data>
+    </node>
+    <node id="n28">
+      <data key="v_name">imediato</data>
+      <data key="v_x">-0.301818708905501</data>
+      <data key="v_y">-0.244902067505342</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">imediato</data>
+    </node>
+    <node id="n29">
+      <data key="v_name">atender</data>
+      <data key="v_x">0.649722886086789</data>
+      <data key="v_y">-0.219656777130452</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">atender</data>
+    </node>
+    <node id="n30">
+      <data key="v_name">protetiva</data>
+      <data key="v_x">-0.232543315488309</data>
+      <data key="v_y">-0.761511727103192</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">protetiva</data>
+    </node>
+    <node id="n31">
+      <data key="v_name">aplicação</data>
+      <data key="v_x">0.134837115376452</data>
+      <data key="v_y">-0.750243685831751</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">aplicação</data>
+    </node>
+    <node id="n32">
+      <data key="v_name">autorização</data>
+      <data key="v_x">0.660087344864296</data>
+      <data key="v_y">0.0195691787507502</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">5</data>
+      <data key="v_label">autorização</data>
+    </node>
+    <node id="n33">
+      <data key="v_name">colocação</data>
+      <data key="v_x">0.662833548557587</data>
+      <data key="v_y">-0.139521366279345</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">14</data>
+      <data key="v_label">colocação</data>
+    </node>
+    <node id="n34">
+      <data key="v_name">art</data>
+      <data key="v_x">-0.651254447128623</data>
+      <data key="v_y">-0.528441597117112</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">13</data>
+      <data key="v_label">art</data>
+    </node>
+    <node id="n35">
+      <data key="v_name">pretensão</data>
+      <data key="v_x">0.220144678999004</data>
+      <data key="v_y">-0.720909798525415</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">10</data>
+      <data key="v_label">pretensão</data>
+    </node>
+    <node id="n36">
+      <data key="v_name">provisório</data>
+      <data key="v_x">0.266654243345946</data>
+      <data key="v_y">0.519526169175234</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">provisório</data>
+    </node>
+    <node id="n37">
+      <data key="v_name">desacolhimento</data>
+      <data key="v_x">0.594310398687604</data>
+      <data key="v_y">-0.375187185456383</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">desacolhimento</data>
+    </node>
+    <node id="n38">
+      <data key="v_name">inserção</data>
+      <data key="v_x">0.200380186429224</data>
+      <data key="v_y">0.539458484237559</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">inserção</data>
+    </node>
+    <node id="n39">
+      <data key="v_name">nulidade</data>
+      <data key="v_x">0.133175956145628</data>
+      <data key="v_y">0.551118652228609</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">nulidade</data>
+    </node>
+    <node id="n40">
+      <data key="v_name">termo</data>
+      <data key="v_x">0.0660544501749461</data>
+      <data key="v_y">0.554570574377358</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">termo</data>
+    </node>
+    <node id="n41">
+      <data key="v_name">afastamento</data>
+      <data key="v_x">0.54857358643198</data>
+      <data key="v_y">0.302428323220016</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">afastamento</data>
+    </node>
+    <node id="n42">
+      <data key="v_name">programa</data>
+      <data key="v_x">-5.20509606553515e-15</data>
+      <data key="v_y">0.549999999999997</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">programa</data>
+    </node>
+    <node id="n43">
+      <data key="v_name">fundamento</data>
+      <data key="v_x">-0.264820815766402</data>
+      <data key="v_y">-0.272788136404588</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">fundamento</data>
+    </node>
+    <node id="n44">
+      <data key="v_name">excepcional</data>
+      <data key="v_x">-0.0640460378385558</data>
+      <data key="v_y">0.537708631237505</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">excepcional</data>
+    </node>
+    <node id="n45">
+      <data key="v_name">tutela</data>
+      <data key="v_x">-0.225546469294834</data>
+      <data key="v_y">-0.29544589614798</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">tutela</data>
+    </node>
+    <node id="n46">
+      <data key="v_name">consolidado</data>
+      <data key="v_x">0.2234260268524</data>
+      <data key="v_y">-0.0755353428921799</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">consolidado</data>
+    </node>
+    <node id="n47">
+      <data key="v_name">ministério</data>
+      <data key="v_x">-0.125198694213453</data>
+      <data key="v_y">0.518106553259838</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">5</data>
+      <data key="v_label">ministério</data>
+    </node>
+    <node id="n48">
+      <data key="v_name">juízo</data>
+      <data key="v_x">0.644742235320389</data>
+      <data key="v_y">0.0962488450242621</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">juízo</data>
+    </node>
+    <node id="n49">
+      <data key="v_name">público</data>
+      <data key="v_x">-0.182641612548612</data>
+      <data key="v_y">0.491703143009968</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">6</data>
+      <data key="v_label">público</data>
+    </node>
+    <node id="n50">
+      <data key="v_name">sempre</data>
+      <data key="v_x">-0.184702340264103</data>
+      <data key="v_y">-0.312737538236253</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">sempre</data>
+    </node>
+    <node id="n51">
+      <data key="v_name">liminar</data>
+      <data key="v_x">-0.142994725860639</data>
+      <data key="v_y">-0.32461769064469</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">liminar</data>
+    </node>
+    <node id="n52">
+      <data key="v_name">indeferir</data>
+      <data key="v_x">-0.10111776870167</data>
+      <data key="v_y">-0.331131284178755</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">indeferir</data>
+    </node>
+    <node id="n53">
+      <data key="v_name">arts</data>
+      <data key="v_x">0.222483127022808</data>
+      <data key="v_y">-0.0468309878458551</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">arts</data>
+    </node>
+    <node id="n54">
+      <data key="v_name">rol</data>
+      <data key="v_x">-0.0597421872583789</data>
+      <data key="v_y">-0.3324099499106</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">rol</data>
+    </node>
+    <node id="n55">
+      <data key="v_name">independentemente</data>
+      <data key="v_x">-0.0195046972970824</data>
+      <data key="v_y">-0.328667039986552</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">independentemente</data>
+    </node>
+    <node id="n56">
+      <data key="v_name">inclusão</data>
+      <data key="v_x">-0.235637917787135</data>
+      <data key="v_y">0.459096630918983</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">inclusão</data>
+    </node>
+    <node id="n57">
+      <data key="v_name">cumular</data>
+      <data key="v_x">-0.283539584907893</data>
+      <data key="v_y">0.420962508275664</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">cumular</data>
+    </node>
+    <node id="n58">
+      <data key="v_name">determinado</data>
+      <data key="v_x">0.620642893265564</data>
+      <data key="v_y">0.16959098798029</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">8</data>
+      <data key="v_label">determinado</data>
+    </node>
+    <node id="n59">
+      <data key="v_name">manter</data>
+      <data key="v_x">0.300441046356131</data>
+      <data key="v_y">-0.682042488322625</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">18</data>
+      <data key="v_label">manter</data>
+    </node>
+    <node id="n60">
+      <data key="v_name">família</data>
+      <data key="v_x">-0.874542258692389</data>
+      <data key="v_y">0.238969119426769</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">33</data>
+      <data key="v_label">família</data>
+    </node>
+    <node id="n61">
+      <data key="v_name">restabelecimento</data>
+      <data key="v_x">0.502055570843129</data>
+      <data key="v_y">0.360237319641492</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">restabelecimento</data>
+    </node>
+    <node id="n62">
+      <data key="v_name">inexistir</data>
+      <data key="v_x">0.0190017108338313</data>
+      <data key="v_y">-0.320191385660251</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">inexistir</data>
+    </node>
+    <node id="n63">
+      <data key="v_name">aptar</data>
+      <data key="v_x">-0.32579518917244</data>
+      <data key="v_y">0.378040987833483</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">aptar</data>
+    </node>
+    <node id="n64">
+      <data key="v_name">visita</data>
+      <data key="v_x">0.374681890250039</data>
+      <data key="v_y">-0.634410434707832</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">12</data>
+      <data key="v_label">visita</data>
+    </node>
+    <node id="n65">
+      <data key="v_name">prover</data>
+      <data key="v_x">-0.361955948209149</data>
+      <data key="v_y">0.331123736593835</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">5</data>
+      <data key="v_label">prover</data>
+    </node>
+    <node id="n66">
+      <data key="v_name">risco</data>
+      <data key="v_x">0.441933691105617</data>
+      <data key="v_y">-0.578893989406704</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">risco</data>
+    </node>
+    <node id="n67">
+      <data key="v_name">possibilidade</data>
+      <data key="v_x">0.449660658736746</data>
+      <data key="v_y">0.411357565076194</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">6</data>
+      <data key="v_label">possibilidade</data>
+    </node>
+    <node id="n68">
+      <data key="v_name">dever</data>
+      <data key="v_x">0.626848304579987</data>
+      <data key="v_y">-0.298611310259921</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">11</data>
+      <data key="v_label">dever</data>
+    </node>
+    <node id="n69">
+      <data key="v_name">confirmar</data>
+      <data key="v_x">0.055236491571292</data>
+      <data key="v_y">-0.307339925755332</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">confirmar</data>
+    </node>
+    <node id="n70">
+      <data key="v_name">observar</data>
+      <data key="v_x">0.218003361779931</data>
+      <data key="v_y">-0.0194345733159652</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">observar</data>
+    </node>
+    <node id="n71">
+      <data key="v_name">deferir</data>
+      <data key="v_x">-0.391679994963115</data>
+      <data key="v_y">0.281040107384425</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">deferir</data>
+    </node>
+    <node id="n72">
+      <data key="v_name">suficiente</data>
+      <data key="v_x">0.0887191322123619</data>
+      <data key="v_y">-0.290529355600979</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">suficiente</data>
+    </node>
+    <node id="n73">
+      <data key="v_name">judicial</data>
+      <data key="v_x">0.11903550317654</data>
+      <data key="v_y">-0.270226960563267</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">judicial</data>
+    </node>
+    <node id="n74">
+      <data key="v_name">suspender</data>
+      <data key="v_x">-0.414734849983215</data>
+      <data key="v_y">0.228643099783802</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">suspender</data>
+    </node>
+    <node id="n75">
+      <data key="v_name">psíquico</data>
+      <data key="v_x">-0.430998091003671</data>
+      <data key="v_y">0.174795281115392</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">psíquico</data>
+    </node>
+    <node id="n76">
+      <data key="v_name">procedimento</data>
+      <data key="v_x">0.210284968435338</data>
+      <data key="v_y">0.00623418123059265</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">procedimento</data>
+    </node>
+    <node id="n77">
+      <data key="v_name">motivo</data>
+      <data key="v_x">0.199674151025415</data>
+      <data key="v_y">0.0298078912231396</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">motivo</data>
+    </node>
+    <node id="n78">
+      <data key="v_name">paterno</data>
+      <data key="v_x">0.58836047717134</data>
+      <data key="v_y">0.238615059210269</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">paterno</data>
+    </node>
+    <node id="n79">
+      <data key="v_name">menor</data>
+      <data key="v_x">-0.889231951724332</data>
+      <data key="v_y">0.0263624793742218</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">menor</data>
+    </node>
+    <node id="n80">
+      <data key="v_name">desenvolvimento</data>
+      <data key="v_x">0.66622579095678</data>
+      <data key="v_y">-0.0593927262112805</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">7</data>
+      <data key="v_label">desenvolvimento</data>
+    </node>
+    <node id="n81">
+      <data key="v_name">genitor</data>
+      <data key="v_x">-0.139342811063536</data>
+      <data key="v_y">-0.775313709987021</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">16</data>
+      <data key="v_label">genitor</data>
+    </node>
+    <node id="n82">
+      <data key="v_name">preliminar</data>
+      <data key="v_x">-0.440456246833625</data>
+      <data key="v_y">0.120354894695685</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">preliminar</data>
+    </node>
+    <node id="n83">
+      <data key="v_name">autorizar</data>
+      <data key="v_x">0.145842886857887</data>
+      <data key="v_y">-0.246940809412523</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">autorizar</data>
+    </node>
+    <node id="n84">
+      <data key="v_name">tio</data>
+      <data key="v_x">-0.443201970733986</data>
+      <data key="v_y">0.0661623753784682</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">tio</data>
+    </node>
+    <node id="n85">
+      <data key="v_name">saudável</data>
+      <data key="v_x">-0.439429575295373</data>
+      <data key="v_y">0.0130274818540672</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">4</data>
+      <data key="v_label">saudável</data>
+    </node>
+    <node id="n86">
+      <data key="v_name">direito</data>
+      <data key="v_x">0.392309140837129</data>
+      <data key="v_y">0.455221378544295</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">9</data>
+      <data key="v_label">direito</data>
+    </node>
+    <node id="n87">
+      <data key="v_name">responsável</data>
+      <data key="v_x">-0.429429035919954</data>
+      <data key="v_y">-0.0382827586439455</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">responsável</data>
+    </node>
+    <node id="n88">
+      <data key="v_name">legal</data>
+      <data key="v_x">0.186556881406803</data>
+      <data key="v_y">0.0509767632492034</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">3</data>
+      <data key="v_label">legal</data>
+    </node>
+    <node id="n89">
+      <data key="v_name">proteger</data>
+      <data key="v_x">-0.413578592971863</data>
+      <data key="v_y">-0.0870551143358607</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">5</data>
+      <data key="v_label">proteger</data>
+    </node>
+    <node id="n90">
+      <data key="v_name">impossibilidade</data>
+      <data key="v_x">-0.392336103152818</data>
+      <data key="v_y">-0.132640062118665</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">5</data>
+      <data key="v_label">impossibilidade</data>
+    </node>
+    <node id="n91">
+      <data key="v_name">infante</data>
+      <data key="v_x">-0.716363406740226</data>
+      <data key="v_y">-0.452239050389038</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">24</data>
+      <data key="v_label">infante</data>
+    </node>
+    <node id="n92">
+      <data key="v_name">cpc</data>
+      <data key="v_x">0.171350153827016</data>
+      <data key="v_y">0.0694926472588558</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">cpc</data>
+    </node>
+    <node id="n93">
+      <data key="v_name">superar</data>
+      <data key="v_x">0.168873625487247</data>
+      <data key="v_y">-0.221209490770696</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">superar</data>
+    </node>
+    <node id="n94">
+      <data key="v_name">mérito</data>
+      <data key="v_x">0.187937353124541</data>
+      <data key="v_y">-0.193591580674224</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">mérito</data>
+    </node>
+    <node id="n95">
+      <data key="v_name">visar</data>
+      <data key="v_x">0.154492862443946</data>
+      <data key="v_y">0.085171831991175</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">visar</data>
+    </node>
+    <node id="n96">
+      <data key="v_name">permitir</data>
+      <data key="v_x">0.136436475740576</data>
+      <data key="v_y">0.0978965540399737</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">permitir</data>
+    </node>
+    <node id="n97">
+      <data key="v_name">intervenção</data>
+      <data key="v_x">0.202921801861221</data>
+      <data key="v_y">-0.164655030822768</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">intervenção</data>
+    </node>
+    <node id="n98">
+      <data key="v_name">tudo</data>
+      <data key="v_x">0.117635683167973</data>
+      <data key="v_y">0.107615214392994</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">tudo</data>
+    </node>
+    <node id="n99">
+      <data key="v_name">posterior</data>
+      <data key="v_x">0.0985391876513992</data>
+      <data key="v_y">0.114341319571562</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">posterior</data>
+    </node>
+    <node id="n100">
+      <data key="v_name">parcialmente</data>
+      <data key="v_x">0.0795808128644827</data>
+      <data key="v_y">0.118151187266959</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">parcialmente</data>
+    </node>
+    <node id="n101">
+      <data key="v_name">nacional</data>
+      <data key="v_x">0.061171086518781</data>
+      <data key="v_y">0.119180478227595</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">nacional</data>
+    </node>
+    <node id="n102">
+      <data key="v_name">modificação</data>
+      <data key="v_x">0.0436894504837509</data>
+      <data key="v_y">0.117619636727202</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">modificação</data>
+    </node>
+    <node id="n103">
+      <data key="v_name">lar</data>
+      <data key="v_x">0.213792197111779</data>
+      <data key="v_y">-0.13496666537223</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">lar</data>
+    </node>
+    <node id="n104">
+      <data key="v_name">integridade</data>
+      <data key="v_x">0.2205892810954</data>
+      <data key="v_y">-0.10508196923549</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">integridade</data>
+    </node>
+    <node id="n105">
+      <data key="v_name">habilitado</data>
+      <data key="v_x">0.0274772355441918</data>
+      <data key="v_y">0.113708340892422</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">habilitado</data>
+    </node>
+    <node id="n106">
+      <data key="v_name">envolver</data>
+      <data key="v_x">0.0128315232603384</data>
+      <data key="v_y">0.107729081171275</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">envolver</data>
+    </node>
+    <node id="n107">
+      <data key="v_name">dado</data>
+      <data key="v_x">1.8314641253222e-15</data>
+      <data key="v_y">0.099999999999997</data>
+      <data key="v_weight">0</data>
+      <data key="v_rcolor">black</data>
+      <data key="v_frequences">2</data>
+      <data key="v_label">dado</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">4.49253731343284</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">5.70149253731343</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">4.08955223880597</data>
+    </edge>
+    <edge source="n1" target="n5">
+      <data key="e_weight">2.61194029850746</data>
+    </edge>
+    <edge source="n1" target="n6">
+      <data key="e_weight">3.14925373134328</data>
+    </edge>
+    <edge source="n1" target="n7">
+      <data key="e_weight">3.6865671641791</data>
+    </edge>
+    <edge source="n1" target="n8">
+      <data key="e_weight">2.2089552238806</data>
+    </edge>
+    <edge source="n1" target="n9">
+      <data key="e_weight">3.55223880597015</data>
+    </edge>
+    <edge source="n1" target="n10">
+      <data key="e_weight">2.07462686567164</data>
+    </edge>
+    <edge source="n1" target="n11">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n12">
+      <data key="e_weight">3.55223880597015</data>
+    </edge>
+    <edge source="n1" target="n13">
+      <data key="e_weight">4.8955223880597</data>
+    </edge>
+    <edge source="n1" target="n14">
+      <data key="e_weight">4.35820895522388</data>
+    </edge>
+    <edge source="n1" target="n15">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n16">
+      <data key="e_weight">1.80597014925373</data>
+    </edge>
+    <edge source="n1" target="n17">
+      <data key="e_weight">2.74626865671642</data>
+    </edge>
+    <edge source="n1" target="n18">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n19">
+      <data key="e_weight">2.61194029850746</data>
+    </edge>
+    <edge source="n1" target="n20">
+      <data key="e_weight">2.61194029850746</data>
+    </edge>
+    <edge source="n1" target="n21">
+      <data key="e_weight">2.07462686567164</data>
+    </edge>
+    <edge source="n1" target="n22">
+      <data key="e_weight">5.83582089552239</data>
+    </edge>
+    <edge source="n1" target="n23">
+      <data key="e_weight">1.80597014925373</data>
+    </edge>
+    <edge source="n1" target="n24">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n25">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n26">
+      <data key="e_weight">6.1044776119403</data>
+    </edge>
+    <edge source="n1" target="n27">
+      <data key="e_weight">2.07462686567164</data>
+    </edge>
+    <edge source="n1" target="n28">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n29">
+      <data key="e_weight">1.67164179104478</data>
+    </edge>
+    <edge source="n1" target="n30">
+      <data key="e_weight">2.07462686567164</data>
+    </edge>
+    <edge source="n1" target="n31">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n32">
+      <data key="e_weight">1.53731343283582</data>
+    </edge>
+    <edge source="n1" target="n33">
+      <data key="e_weight">1.67164179104478</data>
+    </edge>
+    <edge source="n1" target="n34">
+      <data key="e_weight">2.34328358208955</data>
+    </edge>
+    <edge source="n1" target="n35">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n36">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n37">
+      <data key="e_weight">1.80597014925373</data>
+    </edge>
+    <edge source="n1" target="n38">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n39">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n40">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n41">
+      <data key="e_weight">1.40298507462687</data>
+    </edge>
+    <edge source="n1" target="n42">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n43">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n44">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n45">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n46">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n47">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n48">
+      <data key="e_weight">1.53731343283582</data>
+    </edge>
+    <edge source="n1" target="n49">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n50">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n51">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n52">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n53">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n54">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n55">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n56">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n57">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n58">
+      <data key="e_weight">1.53731343283582</data>
+    </edge>
+    <edge source="n1" target="n59">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n60">
+      <data key="e_weight">3.28358208955224</data>
+    </edge>
+    <edge source="n1" target="n61">
+      <data key="e_weight">1.40298507462687</data>
+    </edge>
+    <edge source="n1" target="n62">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n63">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n64">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n65">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n66">
+      <data key="e_weight">1.94029850746269</data>
+    </edge>
+    <edge source="n1" target="n67">
+      <data key="e_weight">1.40298507462687</data>
+    </edge>
+    <edge source="n1" target="n68">
+      <data key="e_weight">1.80597014925373</data>
+    </edge>
+    <edge source="n1" target="n69">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n70">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n71">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n72">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n73">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n74">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n75">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n76">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n77">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n78">
+      <data key="e_weight">1.53731343283582</data>
+    </edge>
+    <edge source="n1" target="n79">
+      <data key="e_weight">3.14925373134328</data>
+    </edge>
+    <edge source="n1" target="n80">
+      <data key="e_weight">1.67164179104478</data>
+    </edge>
+    <edge source="n1" target="n81">
+      <data key="e_weight">2.07462686567164</data>
+    </edge>
+    <edge source="n1" target="n82">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n83">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n84">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n85">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n86">
+      <data key="e_weight">1.40298507462687</data>
+    </edge>
+    <edge source="n1" target="n87">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n88">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n89">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n90">
+      <data key="e_weight">1.26865671641791</data>
+    </edge>
+    <edge source="n1" target="n91">
+      <data key="e_weight">2.61194029850746</data>
+    </edge>
+    <edge source="n1" target="n92">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n93">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n94">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n95">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n96">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n97">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n98">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n99">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n100">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n101">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n102">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n103">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n104">
+      <data key="e_weight">1.13432835820896</data>
+    </edge>
+    <edge source="n1" target="n105">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n106">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n1" target="n107">
+      <data key="e_weight">1</data>
+    </edge>
+  </graph>
+</graphml>

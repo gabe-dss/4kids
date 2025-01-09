@@ -1,0 +1,13 @@
+[labbe]
+type = labbe
+lem = 1
+mineff = 10
+indice = hypergeo
+typeformes = 0
+clnb = 5
+pathout = C:\Users\gabri\OneDrive\Área de Trabalho\Acadêmico\R\4kids\data_corpus_1\data_labbe_3
+corpus = ee50e5b6-4fd8-4af3-8c74-a7b2b3f2d1bd
+uuid = c0b1a9f8-391b-482b-9fe3-2f571bb7c004
+name = data_labbe_3
+ira = C:\Users\gabri\OneDrive\Área de Trabalho\Acadêmico\R\4kids\data_corpus_1\data_labbe_3\Analyse.ira
+time = 0h 0m 7s

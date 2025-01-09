@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_name" for="node" attr.name="name" attr.type="string"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_name">X.tipo_proc_agravo_de_execução_penal</data>
+    </node>
+    <node id="n1">
+      <data key="v_name">X.tipo_proc_agravo_de_instrumento</data>
+    </node>
+    <node id="n2">
+      <data key="v_name">X.tipo_proc_apelação_cível</data>
+    </node>
+    <node id="n3">
+      <data key="v_name">X.tipo_proc_conflito_de_competência</data>
+    </node>
+    <node id="n4">
+      <data key="v_name">X.tipo_proc_reexame_necessário</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">0.635796540122944</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">0.580527194188101</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">0.797987787387187</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">0.590421389633988</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">0.643348210400686</data>
+    </edge>
+    <edge source="n2" target="n3">
+      <data key="e_weight">0.618827009692006</data>
+    </edge>
+    <edge source="n0" target="n4">
+      <data key="e_weight">0.598674007444169</data>
+    </edge>
+    <edge source="n1" target="n4">
+      <data key="e_weight">0.642087504961127</data>
+    </edge>
+    <edge source="n2" target="n4">
+      <data key="e_weight">0.594551968386746</data>
+    </edge>
+    <edge source="n3" target="n4">
+      <data key="e_weight">0.60167032967033</data>
+    </edge>
+  </graph>
+</graphml>

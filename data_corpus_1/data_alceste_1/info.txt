@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Sun Jan  5 17:06:49 2025
++-+-+-+-+-+-+-+-+
+
+
+Número de textos: 78
+Número de ST: 474
+Número de formas: 2326
+Número de ocorrências: 15539
+Número de lemas: 1783
+Número de formas ativas: 1502
+Número de formas suplementares: 267
+Número de formas ativas com a frequência >= 3: 592
+Média das formas por segmento: 32.782700
+Número de classes : 4
+372 Segmentos classificados em  474 (78.48%)
+
+###########################
+tempo : 0h 0m 35s
+###########################

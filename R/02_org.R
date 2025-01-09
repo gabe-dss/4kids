@@ -4,6 +4,8 @@ data_selec <- data |> dplyr::filter(tipo_documento == "Acordao") |> dplyr::selec
 
 data_selec$ementa_completa <- data_selec$ementa_completa |> stringr::str_trim() |> stringr::str_squish()
 
+saveRDS(data_selec, file = "DATA/data_selec.rds")
+
 data_iramuteq <- data_selec |> 
   dplyr::mutate(
     tipo_processo = stringr::str_to_lower(stringr::str_replace_all(tipo_processo, "\\s", "_")),
@@ -23,5 +25,6 @@ data_iramuteq <- data_selec |>
 )) |>
   dplyr::select(code, ementa_completa)
 
+saveRDS(data_iramuteq, file = "DATA/data.rds")
 
 readr::write_delim(data_iramuteq, 'data.txt', delim = '\n', col_names = FALSE, quote = 'none')

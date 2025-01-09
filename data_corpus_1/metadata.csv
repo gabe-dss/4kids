@@ -1,0 +1,79 @@
+column_0	column_1	column_2	column_3	column_4	column_5	column_6	column_7	column_8
+0	*cod_10778083	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_RICARDO_MOREIRA_LINS_PASTL
+1	*cod_10782763	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_GLAUCIA_DIPP_DREHER
+2	*cod_10782026	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_EDUARDO_AUGUSTO_DIAS_BAINY
+3	*cod_10726012	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_EDUARDO_AUGUSTO_DIAS_BAINY
+4	*cod_10672236	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_LUIZ_AUGUSTO_GUIMARAES_DE_SOUZA
+5	*cod_10611160	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_ROBERTO_ARRIADA_LOREA
+6	*cod_10529965	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+7	*cod_10530261	*ori_OUTRA	*tipo_proc_apelação_cível	*ano_2024	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+8	*cod_10494898	*ori_SANTA	MARIA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_CARLOS_EDUARDO_ZIETLOW_DURO
+9	*cod_10497754	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_VERA_LUCIA_DEBONI
+10	*cod_10442229	*ori_OUTRA	*tipo_proc_apelação_cível	*ano_2024	*rel_JANE_MARIA_KÖHLER_VIDAL
+11	*cod_10408854	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+12	*cod_10328738	*ori_CANGUÇU	*tipo_proc_apelação_cível	*ano_2024	*rel_ROBERTO_ARRIADA_LOREA
+13	*cod_10330142	*ori_CAXIAS	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_ROBERTO_ARRIADA_LOREA
+14	*cod_10306088	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_SANDRA_BRISOLARA_MEDEIROS
+15	*cod_10292350	*ori_CAXIAS	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2024	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+16	*cod_10235923	*ori_OUTRA	*tipo_proc_apelação_cível	*ano_2024	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+17	*cod_10236451	*ori_PORTO	ALEGRE	*tipo_proc_apelação_cível	*ano_2024	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+18	*cod_10141060	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_SANDRA_BRISOLARA_MEDEIROS
+19	*cod_10128733	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+20	*cod_10069883	*ori_SANTA	CRUZ	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_LEANDRO_FIGUEIRA_MARTINS
+21	*cod_10063251	*ori_PASSO	FUNDO	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+22	*cod_10027967	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_CARLOS_EDUARDO_ZIETLOW_DURO
+23	*cod_10028643	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_SANDRA_BRISOLARA_MEDEIROS
+24	*cod_10020598	*ori_PASSO	FUNDO	*tipo_proc_apelação_cível	*ano_2023	*rel_LEANDRO_FIGUEIRA_MARTINS
+25	*cod_10014210	*ori_PANAMBI	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+26	*cod_9973961	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+27	*cod_9976720	*ori_CAMAQUÃ	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+28	*cod_9969615	*ori_RIO	GRANDE	*tipo_proc_apelação_cível	*ano_2023	*rel_JOÃO_RICARDO_DOS_SANTOS_COSTA
+29	*cod_9967228	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+30	*cod_9969333	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+31	*cod_9463805	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_VERA_LUCIA_DEBONI
+32	*cod_9460452	*ori_TAPES	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+33	*cod_9450979	*ori_SAPIRANGA	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+34	*cod_9423376	*ori_OSÓRIO	*tipo_proc_apelação_cível	*ano_2023	*rel_MAURO_CAUM_GONÇALVES
+35	*cod_9423804	*ori_SAPUCAIA	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2023	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+36	*cod_9386069	*ori_SOBRADINHO	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+37	*cod_9373502	*ori_PORTO	ALEGRE	*tipo_proc_apelação_cível	*ano_2022	*rel_ROBERTO_ARRIADA_LOREA
+38	*cod_9351585	*ori_CAMAQUÃ	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+39	*cod_9255266	*ori_SANTA	ROSA	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+40	*cod_9255526	*ori_SÃO	LEOPOLDO	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+41	*cod_9994594	*ori_VACARIA	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+42	*cod_9170892	*ori_OUTRA	*tipo_proc_agravo_de_execução_penal	*ano_2022	*rel_MANUEL_JOSÉ_MARTINEZ_LUCAS
+43	*cod_9983435	*ori_FARROUPILHA	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+44	*cod_9148558	*ori_NOVO	HAMBURGO	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+45	*cod_9148912	*ori_ERECHIM	*tipo_proc_conflito_de_competência	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+46	*cod_9071992	*ori_GRAVATAÍ	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+47	*cod_9072001	*ori_CANGUÇU	*tipo_proc_agravo_de_instrumento	*ano_2022	*rel_MAURO_CAUM_GONÇALVES
+48	*cod_9063519	*ori_OUTRA	*tipo_proc_agravo_de_execução_penal	*ano_2022	*rel_MANUEL_JOSÉ_MARTINEZ_LUCAS
+49	*cod_8996420	*ori_PORTO	ALEGRE	*tipo_proc_agravo_de_instrumento	*ano_2021	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+50	*cod_8928855	*ori_SANTA	VITÓRIA	DO	PALMAR	*tipo_proc_agravo_de_instrumento	*ano_2021	*rel_CARLOS_EDUARDO_ZIETLOW_DURO
+51	*cod_8912163	*ori_JÚLIO	DE	CASTILHOS	*tipo_proc_agravo_de_instrumento	*ano_2021	*rel_MAURO_CAUM_GONÇALVES
+52	*cod_8738328	*ori_SANTA	BÁRBARA	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2020	*rel_ROSANA_BROGLIO_GARBIN
+53	*cod_8694393	*ori_PELOTAS	*tipo_proc_agravo_de_instrumento	*ano_2020	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+54	*cod_8694939	*ori_VIAMÃO	*tipo_proc_agravo_de_instrumento	*ano_2020	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+55	*cod_8640812	*ori_CHARQUEADAS	*tipo_proc_agravo_de_instrumento	*ano_2020	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+56	*cod_8597353	*ori_CANOAS	*tipo_proc_apelação_cível	*ano_2020	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+57	*cod_8598548	*ori_CANOAS	*tipo_proc_apelação_cível	*ano_2020	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+58	*cod_8239373	*ori_OSÓRIO	*tipo_proc_agravo_de_instrumento	*ano_2019	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+59	*cod_8054835	*ori_VIAMÃO	*tipo_proc_agravo_de_instrumento	*ano_2018	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+60	*cod_8019192	*ori_FARROUPILHA	*tipo_proc_agravo_de_instrumento	*ano_2018	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+61	*cod_7956993	*ori_VIAMÃO	*tipo_proc_agravo_de_instrumento	*ano_2018	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+62	*cod_7863519	*ori_PELOTAS	*tipo_proc_agravo_de_instrumento	*ano_2018	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+63	*cod_7758537	*ori_SAPUCAIA	DO	SUL	*tipo_proc_agravo_de_instrumento	*ano_2018	*rel_JOSÉ_ANTÔNIO_DALTOE_CEZAR
+64	*cod_7410007	*ori_PASSO	FUNDO	*tipo_proc_apelação_cível	*ano_2017	*rel_LISELENA_SCHIFINO_ROBLES_RIBEIRO
+65	*cod_7252894	*ori_CANOAS	*tipo_proc_apelação_cível	*ano_2017	*rel_RUI_PORTANOVA
+66	*cod_7249092	*ori_GRAVATAÍ	*tipo_proc_apelação_cível	*ano_2017	*rel_SANDRA_BRISOLARA_MEDEIROS
+67	*cod_7106842	*ori_DOM	PEDRITO	*tipo_proc_agravo_de_instrumento	*ano_2016	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+68	*cod_7018216	*ori_BOM	JESUS	*tipo_proc_apelação_cível	*ano_2016	*rel_SANDRA_BRISOLARA_MEDEIROS
+69	*cod_6955172	*ori_FREDERICO	WESTPHALEN	*tipo_proc_agravo_de_instrumento	*ano_2016	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+70	*cod_6875010	*ori_GRAVATAÍ	*tipo_proc_apelação_cível	*ano_2016	*rel_SANDRA_BRISOLARA_MEDEIROS
+71	*cod_6828774	*ori_SANTANA	DO	LIVRAMENTO	*tipo_proc_agravo_de_instrumento	*ano_2016	*rel_SANDRA_BRISOLARA_MEDEIROS
+72	*cod_6557060	*ori_PLANALTO	*tipo_proc_agravo_de_instrumento	*ano_2015	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+73	*cod_6530077	*ori_ALVORADA	*tipo_proc_apelação_cível	*ano_2015	*rel_SANDRA_BRISOLARA_MEDEIROS
+74	*cod_5765606	*ori_OSÓRIO	*tipo_proc_reexame_necessário	*ano_2014	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+75	*cod_5596873	*ori_FARROUPILHA	*tipo_proc_apelação_cível	*ano_2013	*rel_LUIZ_FELIPE_BRASIL_SANTOS
+76	*cod_5404834	*ori_OUTRA	*tipo_proc_agravo_de_instrumento	*ano_2013	*rel_RUI_PORTANOVA
+77	*cod_5293097	*ori_CANOAS	*tipo_proc_apelação_cível	*ano_2013	*rel_SANDRA_BRISOLARA_MEDEIROS

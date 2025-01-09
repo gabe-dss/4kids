@@ -1,0 +1,6 @@
+"";"X.tipo_proc_agravo_de_execução_penal";"X.tipo_proc_agravo_de_instrumento";"X.tipo_proc_apelação_cível";"X.tipo_proc_conflito_de_competência";"X.tipo_proc_reexame_necessário"
+"X.tipo_proc_agravo_de_execução_penal";0;0,364203459877056;0,419472805811899;0,409578610366012;0,401325992555831
+"X.tipo_proc_agravo_de_instrumento";0,364203459877056;0;0,202012212612813;0,356651789599314;0,357912495038873
+"X.tipo_proc_apelação_cível";0,419472805811899;0,202012212612813;0;0,381172990307994;0,405448031613254
+"X.tipo_proc_conflito_de_competência";0,409578610366012;0,356651789599314;0,381172990307994;0;0,39832967032967
+"X.tipo_proc_reexame_necessário";0,401325992555831;0,357912495038873;0,405448031613254;0,39832967032967;0
